@@ -49,14 +49,6 @@
 
 <div align="center">
 
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=32&duration=3000&pause=1000&color=0047AB&center=true&vCenter=true&width=500&lines=Most+Used+Languages" alt="Languages Title" />
-</h3>
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
----
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Any+fool+can+write+code+that+a+computer+can+understand.+Good+programmers+write+code+that+humans+can+understand.&author=Martin+Fowler" alt="Programming Quote"/>
 
 <br/><br/>
